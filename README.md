@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+This projects involves the simulation of two colliding pendulums.
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+You can view the proper documentation in the two PDFs attached in docs folder which I wrote in Hungarian.
