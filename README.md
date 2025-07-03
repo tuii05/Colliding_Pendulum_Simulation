@@ -1,5 +1,4 @@
-# Welcome to GitHub Desktop!
+# Colliding Pendulum Simulation - C++
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+The simulation contains two pendulums and renders their motion physically accurate, taking in account the energy loss from the collision.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
