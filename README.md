@@ -1,4 +1,4 @@
-# Colliding Pendulum Simulation - C++
+## Colliding Pendulum Simulation - C++
 
 The simulation contains two pendulums and renders their motion physically accurate, taking in account the energy loss from the collision. The outcome is modifiable via `adatok.txt` and runnable with `Main.exe`. The program outputs 3 graphs. The first graph contains the $\phi(t)$ function of the first pendulum without any collisions. The second shows the same function of the first pendulum when the collisions are taken into account, and the third shows it for the second pendulum in the same system. 
 
